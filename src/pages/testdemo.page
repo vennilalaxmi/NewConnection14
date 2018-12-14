@@ -1,0 +1,5 @@
+<apex:page >
+   <h1>Congratulations</h1>
+   <h2>Welcome</h2>
+   This is your new Page
+</apex:page>
